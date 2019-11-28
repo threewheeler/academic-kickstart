@@ -1,6 +1,6 @@
 ---
 # Display name
-name: group_name
+name: ThreeWheeler
 
 # Username (this should match the folder name)
 authors:
@@ -14,7 +14,7 @@ role: what we search?
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: BUPT
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -70,6 +70,6 @@ user_groups:
 
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+We work on machine learning and deep learning methods for intelligent transportation systems. We are generally interested in transportation mode detection and traffic flow prediction based on spatio-temporal data and methods.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+If you have any ideas about this field and its related machine learning or deep learning methods, please mail us.
