@@ -10,12 +10,13 @@ authors:
 superuser: true
 
 # Role/position
-role: what we search?
+# role: intelligent transportation systems
 
 # Organizations/Affiliations
 organizations:
-- name: BUPT
+- name: Beijing University of Posts and Telecommunications
   url: ""
+- name: Institute of Computing Technology, Chinese Academy of Sciences
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.

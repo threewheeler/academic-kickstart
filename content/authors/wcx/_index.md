@@ -14,7 +14,7 @@ role: Master Student
 
 # Organizations/Affiliations
 organizations:
-- name: BUPT
+- name: Beijing University of Posts and Telecommunications
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
