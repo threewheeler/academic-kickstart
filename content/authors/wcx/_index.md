@@ -26,9 +26,9 @@ interests:
 
 education:
   courses:
-  - course: M.Eng in Software engineering
+  - course: Master in Software engineering
     institution: Beijing University of Posts and Telecommunications
-    year: 2022
+    year: 2019
 
 
 # Social/Academic Networking

@@ -27,12 +27,12 @@ interests:
 
 education:
   courses:
-  - course: M.Eng in Software engineering
+  - course: Master in Software engineering
     institution: Beijing University of Posts and Telecommunications
-    year: 2023
-  - course: B.Eng in Computer science and Technology
-    institution: Beijing Forestry University
     year: 2020
+  - course: Bachelor in Computer science and Technology
+    institution: Beijing Forestry University
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

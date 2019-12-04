@@ -28,7 +28,7 @@ education:
   courses:
   - course: PhD in Software engineering
     institution: Beijing University of Posts and Telecommunications
-    year: 2023
+    year: 2018
 
 
 # Social/Academic Networking
